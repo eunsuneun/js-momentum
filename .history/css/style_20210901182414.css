@@ -1,0 +1,8 @@
+.hidden {
+  display: none;
+}
+body {
+  width: 100vh;
+  height: 100vh;
+}
+*{}

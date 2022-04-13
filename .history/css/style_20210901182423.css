@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 100vh;
+  height: 100vh;
+}
+.hidden {
+  display: none;
+}

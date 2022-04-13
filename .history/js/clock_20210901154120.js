@@ -1,0 +1,4 @@
+document.addEventListener('DOMContentLoaded', () => {
+  const $clock = document.querySelector('.clock');
+  
+});
